@@ -1,2 +1,2 @@
-# DataAnalysisWithPythonBasics-1
-Basics of Data Analysis  using Python
+# DataAnalysisWithPython
+Sentiment Data Analysis using Python libraries like Pandas, Numpy, matplotlib
