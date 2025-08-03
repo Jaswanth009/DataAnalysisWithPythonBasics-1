@@ -1,2 +1,2 @@
 # DataAnalysisWithPython
-Sentiment Data Analysis using Python libraries like Pandas, Numpy, matplotlib
+Netflix Data Analysis using Python libraries like Pandas, Numpy, matplotlib
